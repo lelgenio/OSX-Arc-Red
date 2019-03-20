@@ -1,0 +1,6 @@
+This is diferent for every DE
+
+Use " export VISUAL=nano; crontab -e ":
+*  6 * * * /your/wallpaper/changing/script /path/to/day/wallpaper
+* 22 * * * /your/wallpaper/changing/script /path/to/night/wallpaper
+
