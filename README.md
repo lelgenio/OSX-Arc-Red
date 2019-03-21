@@ -7,12 +7,12 @@ arc theme, with red accent color, OSX-like window buttons and matching [Plank](h
 
 ```bash
 git clone https://github.com/leoeugenio/OSX-Arc-Red.git
-cp OSX-Arc-Red/OSX-Arc-Red* ~/.themes
+cp -r OSX-Arc-Red/OSX-Arc-Red* ~/.themes
 ```
 or for a global install:
 
 ```bash
-sudo cp OSX-Arc-Red/OSX-Arc-Red* /usr/share/themes
+sudo cp -r OSX-Arc-Red/OSX-Arc-Red* /usr/share/themes
 ```
 ## Useful links:
 - [Arc Theme](https://github.com/horst3180/arc-theme) - Original arc theme
