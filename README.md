@@ -23,4 +23,4 @@ sudo cp -r OSX-Arc-Red/OSX-Arc-Red* /usr/share/themes
 - [Vala Panel Appmenu](https://github.com/rilian-la-te/vala-panel-appmenu) - for that sweet global menu
 
 🎔
-I use arch btw /s
+I use arch btw
